@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <title>Uriarte Martin</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://i.imgur.com/kY6zhO9.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: Verdana;
+      font-weight: bold;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    a href {
+      width: 64px:
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Time Magazine's 2006 Person of the Year</h1>
+  <br>
+  <img src="http://i.imgur.com/08NYS6E.jpg" height="450" width="auto">
+  <br>
+  <p>Beliver that everyone is capable of great things</p>
+  <p>Future Full-Stack Web Developer</p>
+  <input type="email" placeholder="LET'S MAKE HISTORY">
+  <input type="submit">
+  <br>
+  <br>
+  <a href="www.facebook.com/UriarteMD"><img src="http://i.imgur.com/xiW2SgV.png" hspace=20px></a><a href="www.instagram.com/TheMartinUriarte"><img src="http://i.imgur.com/IhCqyEV.png" hspace=20px></a><a href="www.linkedin.com/TheMartinUriarte"><img src="http://i.imgur.com/xECj3o7.png" hspace=20px></a>
+</body>
